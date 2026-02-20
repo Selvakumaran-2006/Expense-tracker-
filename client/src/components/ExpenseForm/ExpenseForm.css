@@ -58,3 +58,7 @@
     align-items: center;
     justify-content: center;
 }
+.error-text{
+    color: red;
+    margin-bottom: 10px;
+}
